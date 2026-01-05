@@ -5,9 +5,9 @@ Train an ImageNet-pretrained **EfficientNetB3** classifier to recognize **human 
 ## Kaggle
 
 - **Dataset**: 
-    `https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset`
+    [Human Action Recognition (HAR) Dataset](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)
 - **Notebook**: 
-    `https://www.kaggle.com/code/mehrabgheibi/har-accuracy-82`
+    [HAR Accuracy 82% Notebook](https://www.kaggle.com/code/mehrabgheibi/har-accuracy-82)
 
 ## Highlights
 
@@ -33,7 +33,7 @@ Train an ImageNet-pretrained **EfficientNetB3** classifier to recognize **human 
 
 ## Dataset
 
-- **Kaggle dataset**: `https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset`
+- **Kaggle dataset**: [Human Action Recognition (HAR) Dataset](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)
 
 Expected structure:
 
@@ -46,8 +46,8 @@ Expected structure:
 ## Run (Kaggle) — recommended
 
 1. Create a Kaggle notebook (GPU recommended).
-2. Add the dataset: `https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset`
-3. Open the notebook: `https://www.kaggle.com/code/mehrabgheibi/har-accuracy-82` (or upload/run `human-action-recognition.ipynb`).
+2. Add the dataset: [Human Action Recognition (HAR) Dataset](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)
+3. Open the notebook: [HAR Accuracy 82% Notebook](https://www.kaggle.com/code/mehrabgheibi/har-accuracy-82) (or upload/run `human-action-recognition.ipynb`).
 
 ## Model summary
 
